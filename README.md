@@ -6,3 +6,13 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ##  Features
+
+**Add, Edit & Delete Transactions** - Easily manage your income and expenses.  
+**Real-time Balance Calculation** - Get an updated balance after every transaction.  
+**Income & Expense Breakdown** - Separate **Income** (green) and **Expenses** (red) display.  
+**Categorized Transactions** - Track expenses by category (Food, Shopping, Bills, etc.).  
+**Dark & Light Theme Support** - Switch between themes for better accessibility.  
+**Local Storage Persistence** - Data remains saved even after a page refresh.  
+**Responsive UI with Material-UI** - Ensures a clean and modern experience.  
+
